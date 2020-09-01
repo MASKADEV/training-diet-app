@@ -1,6 +1,6 @@
-# training_and_diet_app
+# Training Diet App - Flutter Ui
 
-A new Flutter project.
+![alt text](https://i.ibb.co/Ry7fxgC/Training-Diet.png)
 
 ## Getting Started
 
